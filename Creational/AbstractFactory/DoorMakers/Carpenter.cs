@@ -1,0 +1,12 @@
+﻿using AbstractFactory.Interfaces;
+
+namespace AbstractFactory.DoorMakers
+{
+    public class Carpenter : IDoorFittingExpert
+    {
+        public void GetDescription()
+        {
+            Console.WriteLine("I can only fit wooden doors");
+        }
+    }
+}

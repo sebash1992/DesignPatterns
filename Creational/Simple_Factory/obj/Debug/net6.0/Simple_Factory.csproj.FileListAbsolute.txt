@@ -1,0 +1,12 @@
+F:\Dev\DesignPatterns\Creational\Simple_Factory\bin\Debug\net6.0\Simple_Factory.deps.json
+F:\Dev\DesignPatterns\Creational\Simple_Factory\bin\Debug\net6.0\Simple_Factory.dll
+F:\Dev\DesignPatterns\Creational\Simple_Factory\bin\Debug\net6.0\ref\Simple_Factory.dll
+F:\Dev\DesignPatterns\Creational\Simple_Factory\bin\Debug\net6.0\Simple_Factory.pdb
+F:\Dev\DesignPatterns\Creational\Simple_Factory\obj\Debug\net6.0\Simple_Factory.csproj.AssemblyReference.cache
+F:\Dev\DesignPatterns\Creational\Simple_Factory\obj\Debug\net6.0\Simple_Factory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\DesignPatterns\Creational\Simple_Factory\obj\Debug\net6.0\Simple_Factory.AssemblyInfoInputs.cache
+F:\Dev\DesignPatterns\Creational\Simple_Factory\obj\Debug\net6.0\Simple_Factory.AssemblyInfo.cs
+F:\Dev\DesignPatterns\Creational\Simple_Factory\obj\Debug\net6.0\Simple_Factory.csproj.CoreCompileInputs.cache
+F:\Dev\DesignPatterns\Creational\Simple_Factory\obj\Debug\net6.0\Simple_Factory.dll
+F:\Dev\DesignPatterns\Creational\Simple_Factory\obj\Debug\net6.0\ref\Simple_Factory.dll
+F:\Dev\DesignPatterns\Creational\Simple_Factory\obj\Debug\net6.0\Simple_Factory.pdb

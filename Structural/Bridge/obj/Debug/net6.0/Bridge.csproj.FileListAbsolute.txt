@@ -1,0 +1,15 @@
+F:\Dev\DesignPatterns\Structural\Bridge\bin\Debug\net6.0\Bridge.exe
+F:\Dev\DesignPatterns\Structural\Bridge\bin\Debug\net6.0\Bridge.deps.json
+F:\Dev\DesignPatterns\Structural\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+F:\Dev\DesignPatterns\Structural\Bridge\bin\Debug\net6.0\Bridge.dll
+F:\Dev\DesignPatterns\Structural\Bridge\bin\Debug\net6.0\ref\Bridge.dll
+F:\Dev\DesignPatterns\Structural\Bridge\bin\Debug\net6.0\Bridge.pdb
+F:\Dev\DesignPatterns\Structural\Bridge\obj\Debug\net6.0\Bridge.csproj.AssemblyReference.cache
+F:\Dev\DesignPatterns\Structural\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\DesignPatterns\Structural\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+F:\Dev\DesignPatterns\Structural\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+F:\Dev\DesignPatterns\Structural\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+F:\Dev\DesignPatterns\Structural\Bridge\obj\Debug\net6.0\Bridge.dll
+F:\Dev\DesignPatterns\Structural\Bridge\obj\Debug\net6.0\ref\Bridge.dll
+F:\Dev\DesignPatterns\Structural\Bridge\obj\Debug\net6.0\Bridge.pdb
+F:\Dev\DesignPatterns\Structural\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache

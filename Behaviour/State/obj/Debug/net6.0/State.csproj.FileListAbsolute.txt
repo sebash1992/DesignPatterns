@@ -1,0 +1,14 @@
+F:\Dev\DesignPatterns\Behaviour\State\bin\Debug\net6.0\State.exe
+F:\Dev\DesignPatterns\Behaviour\State\bin\Debug\net6.0\State.deps.json
+F:\Dev\DesignPatterns\Behaviour\State\bin\Debug\net6.0\State.runtimeconfig.json
+F:\Dev\DesignPatterns\Behaviour\State\bin\Debug\net6.0\State.dll
+F:\Dev\DesignPatterns\Behaviour\State\bin\Debug\net6.0\ref\State.dll
+F:\Dev\DesignPatterns\Behaviour\State\bin\Debug\net6.0\State.pdb
+F:\Dev\DesignPatterns\Behaviour\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\DesignPatterns\Behaviour\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+F:\Dev\DesignPatterns\Behaviour\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+F:\Dev\DesignPatterns\Behaviour\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+F:\Dev\DesignPatterns\Behaviour\State\obj\Debug\net6.0\State.dll
+F:\Dev\DesignPatterns\Behaviour\State\obj\Debug\net6.0\ref\State.dll
+F:\Dev\DesignPatterns\Behaviour\State\obj\Debug\net6.0\State.pdb
+F:\Dev\DesignPatterns\Behaviour\State\obj\Debug\net6.0\State.genruntimeconfig.cache

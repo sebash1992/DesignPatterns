@@ -1,0 +1,15 @@
+F:\Dev\DesignPatterns\Behaviour\Observer\bin\Debug\net6.0\Observer.exe
+F:\Dev\DesignPatterns\Behaviour\Observer\bin\Debug\net6.0\Observer.deps.json
+F:\Dev\DesignPatterns\Behaviour\Observer\bin\Debug\net6.0\Observer.runtimeconfig.json
+F:\Dev\DesignPatterns\Behaviour\Observer\bin\Debug\net6.0\Observer.dll
+F:\Dev\DesignPatterns\Behaviour\Observer\bin\Debug\net6.0\ref\Observer.dll
+F:\Dev\DesignPatterns\Behaviour\Observer\bin\Debug\net6.0\Observer.pdb
+F:\Dev\DesignPatterns\Behaviour\Observer\obj\Debug\net6.0\Observer.csproj.AssemblyReference.cache
+F:\Dev\DesignPatterns\Behaviour\Observer\obj\Debug\net6.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\DesignPatterns\Behaviour\Observer\obj\Debug\net6.0\Observer.AssemblyInfoInputs.cache
+F:\Dev\DesignPatterns\Behaviour\Observer\obj\Debug\net6.0\Observer.AssemblyInfo.cs
+F:\Dev\DesignPatterns\Behaviour\Observer\obj\Debug\net6.0\Observer.csproj.CoreCompileInputs.cache
+F:\Dev\DesignPatterns\Behaviour\Observer\obj\Debug\net6.0\Observer.dll
+F:\Dev\DesignPatterns\Behaviour\Observer\obj\Debug\net6.0\ref\Observer.dll
+F:\Dev\DesignPatterns\Behaviour\Observer\obj\Debug\net6.0\Observer.pdb
+F:\Dev\DesignPatterns\Behaviour\Observer\obj\Debug\net6.0\Observer.genruntimeconfig.cache

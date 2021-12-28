@@ -1,0 +1,14 @@
+F:\Dev\DesignPatterns\Behaviour\Visitor\bin\Debug\net6.0\Visitor.exe
+F:\Dev\DesignPatterns\Behaviour\Visitor\bin\Debug\net6.0\Visitor.deps.json
+F:\Dev\DesignPatterns\Behaviour\Visitor\bin\Debug\net6.0\Visitor.runtimeconfig.json
+F:\Dev\DesignPatterns\Behaviour\Visitor\bin\Debug\net6.0\Visitor.dll
+F:\Dev\DesignPatterns\Behaviour\Visitor\bin\Debug\net6.0\ref\Visitor.dll
+F:\Dev\DesignPatterns\Behaviour\Visitor\bin\Debug\net6.0\Visitor.pdb
+F:\Dev\DesignPatterns\Behaviour\Visitor\obj\Debug\net6.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\DesignPatterns\Behaviour\Visitor\obj\Debug\net6.0\Visitor.AssemblyInfoInputs.cache
+F:\Dev\DesignPatterns\Behaviour\Visitor\obj\Debug\net6.0\Visitor.AssemblyInfo.cs
+F:\Dev\DesignPatterns\Behaviour\Visitor\obj\Debug\net6.0\Visitor.csproj.CoreCompileInputs.cache
+F:\Dev\DesignPatterns\Behaviour\Visitor\obj\Debug\net6.0\Visitor.dll
+F:\Dev\DesignPatterns\Behaviour\Visitor\obj\Debug\net6.0\ref\Visitor.dll
+F:\Dev\DesignPatterns\Behaviour\Visitor\obj\Debug\net6.0\Visitor.pdb
+F:\Dev\DesignPatterns\Behaviour\Visitor\obj\Debug\net6.0\Visitor.genruntimeconfig.cache
